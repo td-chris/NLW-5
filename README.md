@@ -18,7 +18,8 @@ Skills learned:
 
 - SPA ;
 - MVC ;
-- Server Side Rendering;
+- Server Side Rendering (SSR);
+- Static Site Generation (SSG);
 - API REST;
 
 
